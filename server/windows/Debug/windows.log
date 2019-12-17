@@ -1,0 +1,43 @@
+﻿  car_connection.cpp
+G:\北科大\微處理機\專題\codes\vc\windows\windows\car_connection.cpp(109,20): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+G:\北科大\微處理機\專題\codes\vc\windows\windows\car_connection.cpp(121,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 請參閱 'sprintf' 的宣告
+G:\北科大\微處理機\專題\codes\vc\windows\windows\car_connection.cpp(133,9): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  client_connection.cpp
+G:\北科大\微處理機\專題\codes\vc\windows\windows\car_connection.cpp(141,9): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\北科大\微處理機\專題\codes\vc\windows\windows\client_connection.cpp(110,20): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+G:\北科大\微處理機\專題\codes\vc\windows\windows\client_connection.cpp(123,9): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\北科大\微處理機\專題\codes\vc\windows\windows\client_connection.cpp(134,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 請參閱 'sprintf' 的宣告
+G:\北科大\微處理機\專題\codes\vc\windows\windows\MyForm.cpp(69,1): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(2219): message : 請參閱 'gethostbyname' 的宣告
+G:\北科大\微處理機\專題\codes\vc\windows\windows\MyForm.cpp(70,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1849): message : 請參閱 'inet_ntoa' 的宣告
+G:\北科大\微處理機\專題\codes\vc\windows\windows\MyForm.cpp(72,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 請參閱 'sprintf' 的宣告
+G:\北科大\微處理機\專題\codes\vc\windows\windows\MyForm.cpp(90,32): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+G:\北科大\微處理機\專題\codes\vc\windows\windows\MyForm.cpp(130,32): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+G:\北科大\微處理機\專題\codes\vc\windows\windows\MyForm.cpp(166,25): warning C4477: 'sprintf_s' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'System::String ^'
+G:\北科大\微處理機\專題\codes\vc\windows\windows\MyForm.cpp(236,29): warning C4477: 'sprintf_s' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'System::String ^'
+G:\北科大\微處理機\專題\codes\vc\windows\windows\MyForm.cpp(280,29): warning C4477: 'sprintf_s' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'System::String ^'
+G:\北科大\微處理機\專題\codes\vc\windows\windows\MyForm.cpp(232,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 請參閱 'sprintf' 的宣告
+G:\北科大\微處理機\專題\codes\vc\windows\windows\MyForm.cpp(276,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Systemtimmer.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 請參閱 'sprintf' 的宣告
+G:\北科大\微處理機\專題\codes\vc\windows\windows\Systemtimmer.cpp(20,1): warning C4996: '_strtime': This function or variable may be unsafe. Consider using _strtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(306): message : 請參閱 '_strtime' 的宣告
+G:\北科大\微處理機\專題\codes\vc\windows\windows\Systemtimmer.cpp(23,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 請參閱 'sprintf' 的宣告
+G:\北科大\微處理機\專題\codes\vc\windows\windows\Systemtimmer.cpp(14,9): warning C4101: 'spend': 未參考的區域變數
+G:\北科大\微處理機\專題\codes\vc\windows\windows\Systemtimmer.cpp(13,24): warning C4101: 'end_clock': 未參考的區域變數
+  正在產生程式碼...
+G:\北科大\微處理機\專題\codes\vc\windows\windows\Systemtimmer.cpp(10,10): warning C4101: 't': 未參考的區域變數
+G:\北科大\微處理機\專題\codes\vc\windows\windows\client_connection.cpp(90): warning C4172: 傳回區域變數或暫存的位址: a
+G:\北科大\微處理機\專題\codes\vc\windows\windows\client_connection.cpp(115): warning C4172: 傳回區域變數或暫存的位址: a
+G:\北科大\微處理機\專題\codes\vc\windows\windows\car_connection.cpp(90): warning C4172: 傳回區域變數或暫存的位址: a
+G:\北科大\微處理機\專題\codes\vc\windows\windows\car_connection.cpp(114): warning C4172: 傳回區域變數或暫存的位址: a
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  car_connection.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  windows.vcxproj -> G:\北科大\微處理機\專題\codes\vc\windows\Debug\windows.exe
